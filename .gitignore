@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+*.venv/
+env/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Output Folders 
+snapshot_keras/
+Triggered_Detections/
+video_predictions/
